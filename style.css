@@ -84,6 +84,7 @@ html,body{
 
 .downloadButtonDiv{
 	position:absolute;
+	z-index:2;
 	top:50%;
 	transform:translateY(15px);
 	width:90%;
