@@ -12,6 +12,10 @@
 		url('UnGraphicBold.ttf')  format('truetype');
 }
 
+html{
+	overflow:hidden;
+}
+
 html,body{
 	margin:0;
 	background:#460e55;
